@@ -106,14 +106,22 @@ A poetry and thought-sharing platform where people can publish their writing und
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=riyajain-sudo&show_icons=true&theme=default&hide_border=true&include_all_commits=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=riyajain-sudo&theme=default"
     alt="Riya's GitHub statistics"
-    height="170"
+    height="180"
   />
   <img
-    src="https://streak-stats.demolab.com/?user=riyajain-sudo&theme=default&hide_border=true"
-    alt="GitHub contribution streak"
-    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riyajain-sudo&theme=default"
+    alt="Languages across Riya's repositories"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=riyajain-sudo&theme=default&hide_border=true&border_radius=4"
+    alt="GitHub contributions, current streak, and longest streak"
+    width="100%"
   />
 </p>
 
@@ -121,15 +129,7 @@ A poetry and thought-sharing platform where people can publish their writing und
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyajain-sudo&layout=compact&theme=default&hide_border=true&langs_count=8"
     alt="Most-used programming languages"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=riyajain-sudo&theme=github-light&hide_border=true&area=true"
-    alt="GitHub contribution activity graph"
-    width="95%"
+    height="165"
   />
 </p>
 
