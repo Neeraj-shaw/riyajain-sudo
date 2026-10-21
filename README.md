@@ -106,40 +106,39 @@ A poetry and thought-sharing platform where people can publish their writing und
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=riyajain-sudo&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=riyajain-sudo&show_icons=true&theme=default&hide_border=true&include_all_commits=true"
     alt="Riya's GitHub statistics"
-    height="165"
+    height="170"
   />
   <img
-    src="https://streak-stats.demolab.com/?user=riyajain-sudo&theme=transparent&hide_border=true"
-    alt="Riya's GitHub contribution streak"
-    height="165"
+    src="https://streak-stats.demolab.com/?user=riyajain-sudo&theme=default&hide_border=true"
+    alt="GitHub contribution streak"
+    height="170"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyajain-sudo&layout=compact&theme=transparent&hide_border=true&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyajain-sudo&layout=compact&theme=default&hide_border=true&langs_count=8"
     alt="Most-used programming languages"
-    height="165"
+    height="170"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=riyajain-sudo&theme=github-compact&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=riyajain-sudo&theme=github-light&hide_border=true&area=true"
     alt="GitHub contribution activity graph"
-    width="100%"
+    width="95%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=riyajain-sudo&style=flat-square&color=blue"
+    src="https://komarev.com/ghpvc/?username=riyajain-sudo&style=flat-square&color=0e75b6"
     alt="Profile views"
   />
 </p>
-
 ---
 
 ## 🎯 Current Direction
