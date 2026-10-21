@@ -104,41 +104,15 @@ A poetry and thought-sharing platform where people can publish their writing und
 
 ## 📊 GitHub Overview
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=riyajain-sudo&theme=default"
-    alt="Riya's GitHub statistics"
-    height="180"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riyajain-sudo&theme=default"
-    alt="Languages across Riya's repositories"
-    height="180"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=riyajain-sudo&theme=default&hide_border=true&border_radius=4"
-    alt="GitHub contributions, current streak, and longest streak"
-    width="100%"
-  />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=riyajain-sudo&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="Riya Jain's GitHub statistics" />
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyajain-sudo&layout=compact&theme=default&hide_border=true&langs_count=8"
-    alt="Most-used programming languages"
-    height="165"
-  />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyajain-sudo&layout=compact&hide_border=true&theme=default&langs_count=8" alt="Riya's most-used programming languages" />
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=riyajain-sudo&style=flat-square&color=0e75b6"
-    alt="Profile views"
-  />
-</p>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=riyajain-sudo&theme=default&hide_border=true" alt="Riya's GitHub contribution streak" />
+
+</div>
 ---
 
 ## 🎯 Current Direction
